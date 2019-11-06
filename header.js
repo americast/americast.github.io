@@ -18,6 +18,9 @@ document.write('\
                         <a href="/index.html">Home</a>\
                     </li>\
                     <li>\
+                        <a href="//#publications">Publications</a>\
+                    </li>\
+                    <li>\
                         <a href="/blog">Blog</a>\
                     </li>\
                     <li>\
