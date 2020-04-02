@@ -45,8 +45,16 @@ document.write('\
                                 </span>\
                             </a>\
                         </li>\
+                        <li>\
+                            <a href="https://www.instagram.com/_americast_/" target="_blank">\
+                                <span class="fa-stack fa-lg">\
+                                    <i class="fa fa-circle fa-stack-2x"></i>\
+                                    <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>\
+                                </span>\
+                            </a>\
+                        </li>\
                     </ul>\
-                    <p class="copyright text-muted">2019 | Sayan Sinha</p>\
+                    <p class="copyright text-muted">2020 | Sayan Sinha</p>\
                 </div>\
             </div>\
         </div>\
