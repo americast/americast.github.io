@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student at Georgia Tech College of Computing, advised by [Prof Joy Arulraj](https://faculty.cc.gatech.edu/~jarulraj/) and [Prof B. Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). My research focus is `Time Series Forecasting`, i.e., given a series of data points ordered in time, I look into the best possible ways of estimating the value or interval of the data during the next few time steps.
 
-Forecasting has a variety of use cases, like predicting how the weather would be in the next few hours, or estimating flu cases for the next few weeks. I work on improving forecasting from different fronts -- from making better machine learning models to attempting to aid a user towards picking the right tool to use for forecasting. Check out some of my projects to get more insights about my works!
+Forecasting has a variety of use cases, like predicting how the weather would be in the next few hours, or estimating flu cases for the next few weeks. I work on improving forecasting from different fronts -- from making better machine learning models to attempting to aid a user towards picking the right tool to use for forecasting. Check out some of my [projects](/projects/) to get more insights about my works!
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
