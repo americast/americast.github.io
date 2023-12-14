@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Forecasting with EvaDB
+description: Using SQL-like queries to perform forecasting
+category: research
 img: assets/img/7.jpg
-redirect: https://unsplash.com
+redirect: https://evadb.readthedocs.io/en/stable/source/reference/ai/model-forecasting.html
 importance: 3
-category: work
+# category: work
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,12 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Why is forecasting so hard?
+description: An analysis on difficulties faced by users while performing forecasting
 img: assets/img/3.jpg
 importance: 2
-category: work
-giscus_comments: true
+category: research
+redirect: https://colab.research.google.com/drive/1Guc04LGZ9ugdysucgVCHuMx-REz289rB#scrollTo=y6aMJzN8AbFs
+
 ---
 
 Every project has a beautiful feature showcase page.

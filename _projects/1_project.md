@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: FNP++
+description: Enhancing Functional Neural Processes for Time Series Forecasting
 img: assets/img/12.jpg
 importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+category: research
+redirect: https://github.com/americast/FNPpp
+# related_publications: einstein1956investigations, einstein1950meaning
+# redirect_to:
+#     - https://github.com/americast/FNPpp
 ---
 
 Every project has a beautiful feature showcase page.
