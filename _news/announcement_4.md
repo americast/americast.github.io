@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Research scientist intern at Amazon Science
+Applied scientist intern at Amazon Science
