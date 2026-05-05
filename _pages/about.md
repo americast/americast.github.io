@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>PhD student at Georgia Tech</a>
+subtitle: PhD student at Georgia Tech
 
 # profile:
 #   align: right
@@ -13,15 +13,45 @@ subtitle: <a href='#'>PhD student at Georgia Tech</a>
 #     <p>123 your address street</p>
 #     <p>Your City, State 12345</p>
 
-news: true  # includes a list of news items
+news: false  # homepage experience section is authored directly below
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a PhD student at Georgia Tech College of Computing, advised by [Prof Joy Arulraj](https://faculty.cc.gatech.edu/~jarulraj/) and [Prof B. Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/). My research focus is `Time Series Forecasting`, i.e., given a series of data points ordered in time, I look into the best possible ways of estimating the value or interval of the data during the next few time steps.
+I am a PhD student in the Georgia Tech College of Computing, advised by [Prof B. Aditya Prakash](https://faculty.cc.gatech.edu/~badityap/) and working closely with [Prof Vyas Sekar](https://users.ece.cmu.edu/~vsekar/) (CMU). My research focuses on troubleshooting internet-scale networked systems by surfacing actionable insights.
 
-Forecasting has a variety of use cases, like predicting how the weather would be in the next few hours, or estimating flu cases for the next few weeks. I work on improving forecasting from different fronts -- from making better machine learning models to attempting to aid a user towards picking the right tool to use for forecasting. Check out some of my [projects](/projects/) to get more insights about my works!
+<h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">education &amp; experience</a></h2>
+<div class="news">
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tr>
+        <th scope="row" style="width: 20%">Summer 2025</th>
+        <td>Research intern at Conviva</td>
+      </tr>
+      <tr>
+        <th scope="row" style="width: 20%">Summer 2024</th>
+        <td>Data scientist intern at Apple</td>
+      </tr>
+      <tr>
+        <th scope="row" style="width: 20%">Summer 2022</th>
+        <td>Applied scientist intern at Amazon Science</td>
+      </tr>
+      <tr>
+        <th scope="row" style="width: 20%">2021 - Ongoing</th>
+        <td>PhD student at Georgia Tech</td>
+      </tr>
+      <tr>
+        <th scope="row" style="width: 20%">2020 - 2021</th>
+        <td>Research Engineer at OnePlus India</td>
+      </tr>
+      <tr>
+        <th scope="row" style="width: 20%">2016 - 2020</th>
+        <td>Bachelor of Technology (Hons.) in Computer Science and Engineering <br> Indian Institute of Technology (IIT) Kharagpur</td>
+      </tr>
+    </table>
+  </div>
+</div>
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
